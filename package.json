@@ -1,7 +1,7 @@
 {
   "name": "happy-birthday",
   "version": "1.0.0",
-  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "description": "Happy Birthday Badhiri.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -16,17 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/nikzart/HAPPY-BIRTHDAY-BADHIRI"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "nikzart",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
-  },
   "homepage": "https://github.com/faahim/happy-birthday#readme",
   "dependencies": {}
 }
